@@ -1,4 +1,4 @@
-# Android_ShortestJumpPathb Application calculates the minimum hops/jumps required from start word to the target word.
+# Android_ShortestJumpPath Application calculates the minimum hops/jumps required from start word to the target word.
 
 
 
