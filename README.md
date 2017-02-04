@@ -1,6 +1,6 @@
 # Android_ShortestJumpPathb Application calculates the minimum hops/jumps required from start word to the target word.
 
-The data is retrieved from the USGS service. http://earthquake.usgs.gov/fdsnws/event/1/
+
 
 Pre-requisites
 
